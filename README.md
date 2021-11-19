@@ -7,3 +7,5 @@ My Projects
 * Estimated the value of pi by upto 3 digits accurate after decimal points.
 * Plotted the scatter plot of the points using matplotlib library to visualise the results.
 * Tried the same for a Circumscribed circle
+
+ ![](https://github.com/BilalMaqsood-ai/Bilal_Portfolio/blob/main/Inscribed%20circle.png) ![](https://github.com/BilalMaqsood-ai/Bilal_Portfolio/blob/main/Circumscribed%20circle.png)
